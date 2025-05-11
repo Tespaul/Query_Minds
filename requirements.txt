@@ -1,0 +1,11 @@
+chromadb
+langchain
+google-generativeai
+langchain-google-genai
+tiktoken
+streamlit
+numpy
+python-dotenv
+requests
+pandas
+streamlit
